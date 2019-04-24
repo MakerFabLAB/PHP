@@ -1,7 +1,7 @@
 <?php
 
-echo "Hello Word !!!":
-echo "Massimo":
+echo "Hello Word !!!";
+echo "Massimo";
 
 
 ?>
